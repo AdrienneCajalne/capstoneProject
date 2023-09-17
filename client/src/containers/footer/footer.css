@@ -115,6 +115,11 @@
     color: #fff;
 }
 
+.whiteEva {
+    color: #fff;
+    margin-bottom: 12px;
+}
+
 @media screen and (max-width: 850px) {
     .gpt3__footer-heading h1 {
         font-size: 44px;

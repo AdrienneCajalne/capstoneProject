@@ -121,7 +121,7 @@ form {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fff;
-    color: var(--dark-txt);
+    color: var(--gray-clr);
     padding: 0 15px;
 }
 
@@ -171,5 +171,11 @@ a.google span {
     font-weight: 500;
     opacity: 0.6;
     color: var(--dark-txt);
+}
+
+@media screen and (max-width: 400px) {
+    .form {
+        padding: 15px 10px;
+    }
 }
 
