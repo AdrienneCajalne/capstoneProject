@@ -18,6 +18,9 @@
     align-items: center;
     justify-content: center;
     background-color: '';
+    background-image: url(../assets/parkingUpang.png);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .form {

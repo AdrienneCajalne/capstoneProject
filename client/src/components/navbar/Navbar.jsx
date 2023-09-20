@@ -19,7 +19,6 @@ const Navbar = () => {
           <p><a href="#wgpt3">What is Chatbot E.V.A?</a></p>
           <p><a href="#possibility">Services</a></p>
           <p><a href="#features">Features</a></p>
-          <p><a href="#blog">Blogs</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">

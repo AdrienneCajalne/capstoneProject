@@ -95,13 +95,6 @@ export default function Login() {
                     <div className="line"></div>
 
                     <div className="media-options">
-                        <a href="#" className="field facebook">
-                        <FaFacebookF className="facebook-icon"/>
-                        <span>Login with Facebook</span>
-                        </a>
-                    </div>
-
-                    <div className="media-options">
                         <a href="#" className="field google">
                         <img src={googleLogo} alt="Logo" className="google-img"/>
                         <span>Login with Google</span>

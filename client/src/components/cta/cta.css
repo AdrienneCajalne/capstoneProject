@@ -7,13 +7,12 @@
     padding: 2rem;
     margin: 4rem;
     border-radius: 1rem;
-    background: var(--gradient-bar)
+    background: #D5AA36;;
 }
 
 .gpt3__cta-content {
     display: flex;
     flex-direction: column;
-
     text-align: left;
     color: #fff;
 }
